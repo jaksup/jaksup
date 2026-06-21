@@ -32,7 +32,7 @@ IoT tree health monitoring system combining Arduino soil sensors with satellite 
 
 - **ASN Bank** — Data pipelines for ESG, climate risk (DORA), financial reporting in regulated banking (2024–2026)
 - **bol.com** — Data quality framework across 56M SKUs (2022)
-- **Deloitte** — GCP cloud migration (2021–2022)
+- **Deloitte** — GCP cloud (2021/2022)
 - **City of Amsterdam** — NLP tooling for public policy (2020)
 - **MSc Metropolitan Analysis, Design and Engineering** — TU Delft (2018–2021)
 
