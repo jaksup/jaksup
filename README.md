@@ -1,6 +1,6 @@
 # Jakub Supera
 
-**Data Engineer & Startup Founder** — Warsaw (from August 2026)
+**Data Engineer & Startup Founder** — Warsaw, Poland
 
 I build products at the intersection of business needs, technology, and regulatory requirements. I know where technology is needed, how much of it, and how to talk about it with both engineers and business stakeholders.
 
