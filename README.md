@@ -6,7 +6,7 @@ I build products at the intersection of business needs, technology, and regulato
 
 ---
 
-## Projects
+## Startups
 
 ### 🛰 [Tree Index](https://github.com/jaksup/tree-index)
 Satellite data platform for vegetation anomaly detection — ESA Sentinel Hub, NDVI, ML (Prophet), Flask. Reached **80 users in 13 countries within 2 weeks** of launch, zero marketing budget. Pitched at Copernicus Masters Prize (ESA), Netherlands 2023.
